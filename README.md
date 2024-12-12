@@ -28,5 +28,8 @@ This repository shows how ML techniques can be integrated with database for quer
 
 
 2. TEXT based query to SQL:
-   <img width="642" alt="image" src="https://github.com/user-attachments/assets/22fe2c68-b097-4525-8105-edd2db2f62b9" />
+
+
+
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/640adc46-aa5c-4ff2-ac10-9db6880e3d7f" />
 
