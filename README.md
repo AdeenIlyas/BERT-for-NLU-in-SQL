@@ -22,11 +22,12 @@ This repository shows how ML techniques can be integrated with database for quer
 
 2. Download postgresql.
 
-3. Create database by opening SQL shell(psql) and running the command CREATE DATABASE tpc_ds. Connect to this database using \c tpc_ds;
+3. Create database by opening SQL shell(psql) and running the command CREATE DATABASE tpc_ds.
+   Connect to this database using \c tpc_ds;
 
-4. Create tables current schema and simulated schema and load the downloaded dataset in these tables.
+5. Create tables current schema and simulated schema and load the downloaded dataset in these tables.
 
-5. Ensure python is installed and run pip install -r requirements.txt.
+6. Ensure python is installed and run pip install -r requirements.txt.
 
 
 
