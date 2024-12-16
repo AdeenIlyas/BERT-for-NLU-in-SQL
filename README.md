@@ -23,6 +23,7 @@ This repository shows how ML techniques can be integrated with database for quer
 2. Download postgresql.
 
 3. Create database by opening SQL shell(psql) and running the command CREATE DATABASE tpc_ds.
+
    Connect to this database using \c tpc_ds;
 
 5. Create tables current schema and simulated schema and load the downloaded dataset in these tables.
@@ -32,12 +33,12 @@ This repository shows how ML techniques can be integrated with database for quer
 
 
 # Results:
-1. Query Optimzation using BERT Embeddings:
+- Query Optimzation using BERT Embeddings:
    
    <img width="323" alt="image" src="https://github.com/user-attachments/assets/14b3682a-e553-4003-bc9c-260ce07cdd96" />
 
 
-2. TEXT based query to SQL:
+- TEXT based query to SQL:
 
 
 
