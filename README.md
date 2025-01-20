@@ -32,15 +32,22 @@ This repository shows how ML techniques can be integrated with database for quer
 
 
 
-# Results:
+# Observed Results:
+![image](https://github.com/user-attachments/assets/54138a63-86bb-4acf-96f5-056d8b3ad629)
+
+
+
+
 - Query Optimzation using BERT Embeddings:
+  Execution Time - Before Optimization: 6.02s
+  Execution Time - After Optimization: 1.37s
    
-   <img width="323" alt="image" src="https://github.com/user-attachments/assets/14b3682a-e553-4003-bc9c-260ce07cdd96" />
 
 
 - TEXT based query to SQL:
+  Natural Language Query: “Get all sales with price > 100“
+  Generated SQL Query: SELECT ss_ext_sales_price FROM store_sales WHERE ss_ext_sales > 100
 
 
 
-<img width="642" alt="image" src="https://github.com/user-attachments/assets/640adc46-aa5c-4ff2-ac10-9db6880e3d7f" />
 
